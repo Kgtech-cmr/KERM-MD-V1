@@ -8,7 +8,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with KERM-MD-V1~, or get session id from here, https://pair-session-kermv4-pair.onrender.com",
+        "description": "KERM-MD-V1~KVhzGSSJ#L7YzMyyLTYtWE3wuaZIgV3mRqXfx8KyABwUUyQmy7-g. Make sure it starts with KERM-MD-V1~, or get session id from here, https://pair-session-kermv4-pair.onrender.com",
         "value":"",
         "required": true
         
